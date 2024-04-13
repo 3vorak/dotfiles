@@ -10,3 +10,4 @@ let g:airline_theme='luna'
 if filereadable(expand("~/.vimrc.plug"))
     source ~/.vimrc.plug
 endif
+" This is a comment
